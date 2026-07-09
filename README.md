@@ -2,7 +2,7 @@
 
 Website portofolio pribadi yang menampilkan profil, proyek, dan keahlian teknis saya. Dibuat menggunakan HTML dan CSS murni dengan tema terminal/developer.
 
-🔗 **Live Demo:** https://USERNAME-ANDA.github.io/portfolio-website/
+🔗 **Live Demo:** https://github.com/andrias2/portofolioandrias.com/
 
 ## Tentang
 
