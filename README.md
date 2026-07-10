@@ -22,7 +22,7 @@ Website ini berisi:
 
 1. Clone repository ini:
    ```
-   git clone https://github.com/USERNAME-ANDA/portfolio-website.git
+   git clone https://github.com/andrias2/portofolioandrias.com/
    ```
 2. Masuk ke folder project:
    ```
